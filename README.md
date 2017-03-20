@@ -1,5 +1,5 @@
 # airprint-for-osx
-A Bash scripts to advertise a OSX shared non-AirPrint printer as AirPrint printer using unix tools only
+A Bash script to advertise a OSX shared non-AirPrint printer as AirPrint printer using unix tools only
 
 This project contains three command-line tools (scripts) which may be helpful to others who are attempting to get iOS AirPrint 
 to print to non-AirPrint ready printers. 
